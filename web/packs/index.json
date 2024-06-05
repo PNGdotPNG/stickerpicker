@@ -1,6 +1,8 @@
 {
   "packs": [
-    "test.json"
+    "test.json",
+    "ASUKA.json",
+    "WACCA.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
